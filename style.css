@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 0, 170);
+}
+
+.justme {
+    color: aquamarine;
+    font-size: large;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jmd{
+font-style: italic;
+color: lavender;
+font-size:xx-large ;
+}
